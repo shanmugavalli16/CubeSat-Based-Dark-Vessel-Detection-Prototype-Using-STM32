@@ -243,6 +243,3 @@ Yaw : 16
 
 **Technologies:** STM32 • Arduino • Embedded C • NRF24L01 • MPU6050 • SPI • I2C • UART
 
----
-
-## ⭐ If you found this project useful, consider giving it a Star!
